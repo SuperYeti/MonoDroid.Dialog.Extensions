@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDroid.Dialog.Extensions", "MonoDroid.Dialog.Extensions\MonoDroid.Dialog.Extensions.csproj", "{78F74E05-908F-4446-931B-506FA914D73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDroid.Dialog", "..\MonoDroid.Dialog\MonoDroid.Dialog\MonoDroid.Dialog.csproj", "{33044C7B-47A4-4113-A61A-EB429407F818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsSample", "..\ExtensionsSample\ExtensionsSample.csproj", "{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F74E05-908F-4446-931B-506FA914D73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F74E05-908F-4446-931B-506FA914D73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F74E05-908F-4446-931B-506FA914D73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F74E05-908F-4446-931B-506FA914D73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33044C7B-47A4-4113-A61A-EB429407F818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33044C7B-47A4-4113-A61A-EB429407F818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33044C7B-47A4-4113-A61A-EB429407F818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33044C7B-47A4-4113-A61A-EB429407F818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75BEEEC-7D95-413E-A9C9-805EA84F55A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
